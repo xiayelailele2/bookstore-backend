@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3413d5fa-9ffd-4def-a961-33e0b78c4941" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bookstore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bookstore/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml.html" afterDir="false" />
-    </list>
+    <list default="true" id="3413d5fa-9ffd-4def-a961-33e0b78c4941" name="Changes" comment="bookstore[charpter01]新建mapper和service层" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +42,8 @@
     "onboarding.tips.debug.path": "/Users/wakaka/GitHub/bookstore-backend/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -73,13 +64,46 @@
       <option name="presentableId" value="Default" />
       <updated>1787395323216</updated>
     </task>
+    <task id="LOCAL-00001" summary="bookstore[charpter01]后端仓库新建">
+      <option name="closed" value="true" />
+      <created>1787396115440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787396115440</updated>
+    </task>
+    <task id="LOCAL-00002" summary="bookstore[charpter01]新建mapper和service层">
+      <option name="closed" value="true" />
+      <created>1787396281221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787396281221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bookstore[charpter01]后端仓库新建" />
+    <MESSAGE value="bookstore[charpter01]新建mapper和service层" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookstore[charpter01]新建mapper和service层" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/bookstore/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/bookstore/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
