@@ -1,4 +1,4 @@
 package com.bookstore.service;
 
-public class BookService {
+public interface IBookService {
 }
