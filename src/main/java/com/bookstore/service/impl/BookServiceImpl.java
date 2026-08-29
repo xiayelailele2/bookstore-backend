@@ -2,11 +2,12 @@ package com.bookstore.service.impl;
 
 import com.bookstore.entity.Book;
 import com.bookstore.service.IBookService;
+import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
-
+@Service
 public class BookServiceImpl implements IBookService {
     public List<Book> getBookList() {
         List<Book> list = new ArrayList<>();
