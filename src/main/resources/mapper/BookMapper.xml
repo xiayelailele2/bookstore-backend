@@ -7,18 +7,18 @@
 
     <select id="getBookList" resultType="com.bookstore.entity.Book">
         SELECT
-        id,
-        book_name,
-        author,
-        word_count,
-        price,
-        category,
-        book_img,
-        book_desc,
-        press,
-        publish_date,
-        create_time,
-        update_time
+            id,
+            book_name,
+            author,
+            word_count,
+            price,
+            category,
+            book_img,
+            book_desc,
+            press,
+            publish_date,
+            create_time,
+            update_time
         FROM book
     </select>
 
