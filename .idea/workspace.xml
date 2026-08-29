@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3413d5fa-9ffd-4def-a961-33e0b78c4941" name="Changes" comment="bookstore[charpter01]修改mapper">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/BookstoreBackendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="3413d5fa-9ffd-4def-a961-33e0b78c4941" name="Changes" comment="bookstore[chapter01]成功启动后端">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/controller/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bookstore/service/IBookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bookstore/service/IBookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787396391669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="bookstore[chapter01]成功启动后端">
+      <option name="closed" value="true" />
+      <created>1788005410076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1788005410076</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +117,8 @@
     <MESSAGE value="bookstore[charpter01]后端仓库新建" />
     <MESSAGE value="bookstore[charpter01]新建mapper和service层" />
     <MESSAGE value="bookstore[charpter01]修改workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="bookstore[charpter01]修改workspace.xml" />
+    <MESSAGE value="bookstore[chapter01]成功启动后端" />
+    <option name="LAST_COMMIT_MESSAGE" value="bookstore[chapter01]成功启动后端" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
