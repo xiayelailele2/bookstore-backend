@@ -17,6 +17,7 @@ public class Book {
     private String category;//图书分类
     private String bookImg;//图书封面
     private String bookDesc;//图书简介
+    private Long wordCount;//图书字数
     private String press;//出版社
     private String publishDate;//出版日期
 }
