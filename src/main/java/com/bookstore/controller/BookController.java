@@ -13,7 +13,6 @@ import javax.annotation.Resource;
 import java.util.List;
 
 @RestController
-@Service
 @RequestMapping("/book")
 public class BookController {
 
@@ -24,6 +23,7 @@ public class BookController {
     @PostMapping("/getBookList")
     public Result<List<Book>> getBookList(){
         List<Book> list = bookService.getBookList();
+        if(list==null||list.isEmpty()) return Result.error("未查到图书数据");
         return Result.success(list);
     }
 }
